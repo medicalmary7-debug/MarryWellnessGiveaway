@@ -101,6 +101,7 @@ hr { border: 0; border-top: 1px solid var(--line); margin: 100px 0 0; }
 .entry-meta li { border-bottom: 1px solid rgba(35,75,58,.35); color: var(--moss); font-size: 10px; padding: 11px 0; }
 .entry-meta b { font-weight: 500; }
 .preview-note { color: var(--moss); font-size: 8px; letter-spacing: .13em; margin-top: 40px; }
+.rules-link { border-bottom: 1px solid var(--moss); color: var(--moss); display: inline-block; font-size: 10px; font-weight: 700; margin-top: 18px; padding-bottom: 4px; }
 .form-card { background: var(--card); padding: 42px 45px; }
 .form-card h3 { font-size: 38px; }
 .form-sub { margin: 0 0 29px; }
